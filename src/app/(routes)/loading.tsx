@@ -2,7 +2,7 @@
 
 import { Box, Typography } from "@mui/material";
 import Image from "next/image";
-import LoadingImg from "public/pageLoading.svg";
+import LoadingImg from "public/loading.gif";
 
 export default function Loading() {
   // Or a custom loading skeleton component
